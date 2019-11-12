@@ -5498,6 +5498,8 @@ body {
   justify-content: center;
   padding: 0.7rem 0 !important;
   margin: 0rem .65rem !important;
+  transform: translate3d(-.3rem,0,0);
+  text-shadow: 0.03em -0.04em #ed65e8, -0.03em 0.04em #f9f32f;
 }
 .cid-rtpa2ZDMsk .nav-item:focus,
 .cid-rtpa2ZDMsk .nav-link:focus {
